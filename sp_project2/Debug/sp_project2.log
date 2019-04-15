@@ -6,37 +6,44 @@ c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(124): warn
           ]
 c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(136): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(196): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(201): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(202): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(209): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(217): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(307): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
-          with
-          [
-              T=int
-          ]
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(326): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
-          with
-          [
-              T=int
-          ]
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(339): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(190): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(191): warning C4305: 'argument': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(347): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(197): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(203): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(203): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(204): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(266): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(296): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
           with
           [
               T=int
           ]
-c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(366): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(315): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(327): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(335): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\mahmoud\source\repos\sp_project2\sp_project2\sp_project2.cpp(354): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
           with
           [
               T=int
