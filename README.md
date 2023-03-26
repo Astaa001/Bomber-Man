@@ -1,5 +1,5 @@
 # Bomber-Man
-Structure programming Project
+Structure programming Course Project
 
 # instructions
 
